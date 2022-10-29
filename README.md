@@ -11,7 +11,7 @@ vagrant ssh ubuntu
 ### defina a senha para 123456
 ``` sudo passwd ubuntu ```
 
-#sai 
+### sai 
 ``` exit ```
 
 ``` ssh ubuntu@192.168.56.10 ```
