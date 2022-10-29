@@ -1,0 +1,8 @@
+---
+# Playbook install vim
+- hosts: all
+  become: true
+
+  tasks:
+  - name: Install vim
+    command: sudo apt install vim

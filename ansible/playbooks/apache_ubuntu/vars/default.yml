@@ -1,0 +1,6 @@
+---
+app_user: "www-data"
+http_host: "augustolopes.com.br"
+http_conf: "augustolopes.conf"
+http_port: "80"
+disable_default: true
