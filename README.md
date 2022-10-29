@@ -17,6 +17,6 @@ vagrant ssh ubuntu
 ``` ssh ubuntu@192.168.56.10 ```
 ### insira a senha definida anteriormente
 
-##@ executa o comando do ansible no terminal
+### executa o comando do ansible no terminal
 ``` ansible-playbook -i /inventories/server-client/host.ini /playbooks/apache_ubuntu/playbook.yml  -vvvv ```
 
